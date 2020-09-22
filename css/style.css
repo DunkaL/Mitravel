@@ -663,7 +663,7 @@ input{
 	}
 }
 .featured {
-	background-image: url(img/featured.jpg);
+	background-image: url(../img/featured.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -845,7 +845,7 @@ input{
 .first {
 	height: 100vh;
 	min-height: 700px;
-	background-image: url(img/first-bg.jpg);
+	background-image: url(../img/first-bg.jpg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -932,7 +932,7 @@ input{
 .search-form__button {
 	width: 18px;
 	height: 18px;
-	background-image: url(img/search.svg);
+	background-image: url(../img/search.svg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	position: absolute;
@@ -976,11 +976,11 @@ input{
 .btn-right{
 	left: auto;
 	right: 50px;
-	background-image: url(img/arrow-right.svg);
+	background-image: url(../img/arrow-right.svg);
 }
 
 .btn-left{
-	background-image: url(img/arrow-left.svg);
+	background-image: url(../img/arrow-left.svg);
 }
 
 .main-slider__media{
@@ -994,7 +994,7 @@ input{
 	transform: translate(-50%, -50%);
 	width: 32px;
 	height: 41px;
-	background-image: url(img/play-dow.svg);
+	background-image: url(../img/play-dow.svg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -1236,7 +1236,7 @@ input{
 	border-radius: 8px;
 	border: 1px solid #E4E4E4;
 	padding-left: 31px;
-	background-image: url(img/user.svg);
+	background-image: url(../img/user.svg);
 	background-position: calc(100% - 31px) center;
 	background-repeat: no-repeat;
 }
@@ -1365,13 +1365,13 @@ input{
 }
 
 .social__link--fb {
-	background-image: url(img/fb.svg);
+	background-image: url(../img/fb.svg);
 	width: 11px;
 	height: 20px;
 }
 
 .social__link--tw {
-	background-image: url(img/tw.svg);
+	background-image: url(../img/tw.svg);
 	width: 20px;
 	height: 17px;
 }
@@ -1561,7 +1561,7 @@ input{
 }
 
 .insp__play{
-	background-image: url(img/play.svg);
+	background-image: url(../img/play.svg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -1604,31 +1604,31 @@ input{
 }
 
 .insp__item--1 {
-	background-image: url(img/insp-1.jpg);
+	background-image: url(../img/insp-1.jpg);
 }
 
 .insp__item--2 {
-	background-image: url(img/insp-2.jpg);
+	background-image: url(../img/insp-2.jpg);
 }
 
 .insp__item--3 {
-	background-image: url(img/insp-3.jpg);
+	background-image: url(../img/insp-3.jpg);
 }
 
 .insp__item--4 {
-	background-image: url(img/insp-4.jpg);
+	background-image: url(../img/insp-4.jpg);
 }
 
 .insp__item--5 {
-	background-image: url(img/insp-5.jpg);
+	background-image: url(../img/insp-5.jpg);
 }
 
 .insp__item--6 {
-	background-image: url(img/insp-6.jpg);
+	background-image: url(../img/insp-6.jpg);
 }
 
 .insp__item--7 {
-	background-image: url(img/insp-7.jpg);
+	background-image: url(../img/insp-7.jpg);
 }
 
 @media screen and (max-width: 1300px){
@@ -1676,7 +1676,7 @@ input{
 	position: relative;
 	--newsletter-gap: 133px;
 	border-radius: 8px;
-	background-image: url(img/newsletter-cover.jpg);
+	background-image: url(../img/newsletter-cover.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -1919,19 +1919,19 @@ input{
 }
 
 .slide-1 {
-	background-image: url(img/videos-slider1.jpg);
+	background-image: url(../img/videos-slider1.jpg);
 }
 
 .slide-2 {
-	background-image: url(img/videos-slider1.jpg);
+	background-image: url(../img/videos-slider1.jpg);
 }
 
 .slide-3 {
-	background-image: url(img/videos-slider1.jpg);
+	background-image: url(../img/videos-slider1.jpg);
 }
 
 .slide-4 {
-	background-image: url(img/videos-slider1.jpg);
+	background-image: url(../img/videos-slider1.jpg);
 }
 
 .slide-play {
